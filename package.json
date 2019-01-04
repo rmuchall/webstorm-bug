@@ -1,0 +1,12 @@
+{
+  "name": "webstorm-bug",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./src/broken-analysis.ts",
+  "devDependencies": {
+    "typescript": "3.2.2"
+  },
+  "dependencies": {
+    "typeorm": "0.2.8"
+  }
+}
